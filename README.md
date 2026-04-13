@@ -41,8 +41,4 @@ Everything here is written from scratch as part of my learning journey — no co
 If you’re also preparing for TCS NQT:
 - Feel free to use this repo for practice  
 - Try solving before checking the code  
-- Suggestions are always welcome  
-
-## 📬 Contact
-
-- 📧 adithiyaaaiml2005@gmail.com
+- Suggestions are always welcome
