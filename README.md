@@ -1,42 +1,48 @@
-# 📘 TCS NQT Preparation Repository
+# 📘 TCS NQT 2026 – Coding Questions (Java)
 
-This repository is created to support **TCS NQT exam preparation**, with a primary focus on the **coding section**.
+This repository is part of my preparation for the **TCS NQT 2026**, where I’m mainly focusing on improving my coding skills using Java.
 
----
+Here, I’ll be uploading:
+- Previously asked TCS NQT questions  
+- Practice problems  
+- Clean and simple Java solutions  
 
-## 🎯 About This Repository
+The goal is to keep things easy to understand and useful for revision — both for me and for anyone preparing for the exam.
 
-I personally focus on **Java**, so this repository mainly contains:
+## 🧩 How the Code is Structured
 
-- ✅ Previously asked **TCS NQT coding questions**
-- ✅ **Sample coding problems**
-- ✅ Clean and understandable **Java-based solutions**
+Each problem follows a simple format:
+- 📌 Question (in comments)  
+- 📥 Input & 📤 Output  
+- 💡 Java solution  
 
-The content here is based on what helped me during my own preparation and is intended to help **both you and me** master the TCS NQT coding round.
+This makes it easier to quickly read, understand, and practice.
 
----
+## 🚀 What to Expect
 
-## 🚀 Future Scope
+Right now, the focus is mainly on the **coding section**, but I’ll also be adding:
+- Aptitude questions  
+- Logical reasoning  
+- Other important topics for NQT  
 
-I plan to expand this repository by adding:
+Everything here is written from scratch as part of my learning journey — no copy/paste, just practice and improvement.
 
-- 🧠 Aptitude questions  
-- 📊 Logical reasoning problems  
-- 📚 Other important sections required to crack the **TCS NQT exam**
+## 📂 Topics Covered
 
-All future uploads will be **exam-oriented**, **practice-focused**, and **beginner-friendly**.
+- Arrays  
+- Strings  
+- Basic problem solving  
+- Common coding patterns  
 
----
+*(More will be added as I progress)*
 
-## 🤝 Contribution & Usage
+## 🤝 Feel Free To Use
 
-- Feel free to **use**, **practice**, and **share** the content.
-- Suggestions and contributions are always welcome.
-
----
+If you’re also preparing for TCS NQT:
+- Feel free to use this repo for practice  
+- Try solving before checking the code  
+- Suggestions are always welcome  
 
 ## 📬 Contact
 
-For queries, suggestions, or collaboration:
-
-- **Email:** adithiyaaaiml2005@gmail.com
+- 📧 adithiyaaaiml2005@gmail.com
