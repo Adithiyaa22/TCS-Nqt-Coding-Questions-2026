@@ -1,7 +1,7 @@
 /*
 📌 Question: Discount Calculator (Easy)
 
-you were asked to define Class as "MyClass" for Java
+you were asked to define Class as "MyClass"
 
 Given a purchase amount, calculate the final payable amount after applying the appropriate discount.
 
