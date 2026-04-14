@@ -18,13 +18,6 @@ Each problem follows a simple format:
 
 This makes it easier to quickly read, understand, and practice.
 
-## 🚀 What to Expect
-
-Right now, the focus is mainly on the **coding section**, but I’ll also be adding:
-- Aptitude questions  
-- Logical reasoning  
-- Other important topics for NQT  
-
 Everything here is written from scratch as part of my learning journey — no copy/paste, just practice and improvement.
 
 ## 📂 Topics Covered
