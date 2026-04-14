@@ -1,6 +1,8 @@
 /*
 📌 Question: Parking Fee Calculation
 
+Use the class name as "MyClass"
+
 Calculate the total parking fee based on the number of hours parked.
 
 📥 Input:
