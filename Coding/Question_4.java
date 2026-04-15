@@ -6,7 +6,7 @@ Given the weights of people and the maximum weight capacity, find the maximum nu
 📥 Input:
 - An array of integers representing weights of people
 - An integer representing the maximum allowed weight
-
+ 
 📤 Output:
 Print the maximum number of people that can fit within the given capacity.
 
