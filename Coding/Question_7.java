@@ -1,6 +1,8 @@
 /*
 📌 Question: Happy-Sad State Simulation
+
 Give class name as "MyClass"
+
 You are given an integer N representing the number of people initially in a happy state.
 
 In each iteration, the following transitions happen:
